@@ -1,4 +1,6 @@
 This repository contains all fundamentals of PowerBi as well as a project.
+
+
 Following are the screenshots for all files:
 
 **Basic Visualisation**
@@ -28,7 +30,14 @@ Following are the screenshots for all files:
 **Joins and Relationships**
 
 
-Power Query Transform
+<img width="880" height="550" alt="Screenshot 2025-07-20 171144" src="https://github.com/user-attachments/assets/0b67477c-b962-4796-a7c9-b87213c51073" />
+
+
+
+<img width="473" height="433" alt="Screenshot 2025-07-20 171151" src="https://github.com/user-attachments/assets/88ab74e5-0fd8-46a9-857b-f6ba9266ea27" />
+
+
+**Power Query Transform**
 Visualisations
 
 **Project**
