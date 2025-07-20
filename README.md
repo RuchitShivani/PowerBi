@@ -38,9 +38,19 @@ Following are the screenshots for all files:
 
 
 **Power Query Transform**
-Visualisations
+
+
+<img width="1919" height="840" alt="image" src="https://github.com/user-attachments/assets/85e02689-9b48-45e9-aceb-daf213fdd954" />
+
+
+**Visualisations**
+
+
+<img width="1312" height="716" alt="image" src="https://github.com/user-attachments/assets/36d86f0b-6e15-4411-9eee-dd72fdb1a562" />
+
 
 **Project**
+
 
 <img width="1316" height="774" alt="image" src="https://github.com/user-attachments/assets/1e31fd68-2868-4128-8cc3-c45810352cb0" />
 
